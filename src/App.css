@@ -1,0 +1,87 @@
+
+
+.App {
+
+  padding-top: 10px;
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+  color: white;
+  padding-bottom: 10px;
+  background-color:rgb(53, 115, 170);
+  background-position: center;
+  background-repeat: no-repeat;
+  min-height: 100vh; /* Optional: Adjust the height as needed */
+
+}
+
+.score{
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 15px;
+  color: white;
+
+}
+
+.question-card {
+  padding-bottom: 30px;
+  margin: 0 auto;
+
+  padding: 15px;
+  border-radius: 15px;
+  color: white;
+
+
+  width: 80%;
+  height: auto;
+ 
+}
+
+ul {
+  list-style: none;
+}
+
+li {
+  color: white;
+  background-color: rgba(0, 0, 0, 0.25);
+  padding: 16px;
+  border: 5px solid white;
+  border-radius: 20ps;
+  font-size: 20px;
+  margin-top: 8px;
+}
+
+.question-text{
+font-size: 24px;
+color: white;
+}
+
+
+.final-results{
+  margin: 0 auto;
+
+  background-color: gray;
+  padding: 16px;
+  border-radius: 16px;
+  color: white;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px,
+    rgba(0, 0, 0, 0.3) 0px 18px 36px -18px;
+
+  width: 50%;
+  height: auto;
+ 
+}
+
+button{
+  margin: 0 auto;
+
+  background-color: gray;
+  padding: 16px;
+  border-radius: 16px;
+  color: white;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px,
+    rgba(0, 0, 0, 0.3) 0px 18px 36px -18px;
+
+  width: 80%;
+  height: auto;
+ 
+}
